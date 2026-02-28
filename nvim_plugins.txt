@@ -1,0 +1,13 @@
+	new file:   ftplugin/markdown.lua
+	modified:   init.lua
+	new file:   lua/custom/colors/darcula-dark.lua
+	new file:   lua/custom/colors/darkvoid.lua
+	new file:   lua/custom/plugins/auto-save.lua
+	new file:   lua/custom/plugins/image.lua
+	modified:   lua/custom/plugins/init.lua
+	new file:   lua/custom/plugins/jupytext.lua
+	new file:   lua/custom/plugins/molten-nvim.lua
+	new file:   lua/custom/plugins/oil.lua
+	new file:   lua/custom/plugins/quarto.lua
+	new file:   lua/custom/plugins/transparent.lua
+	new file:   lua/custom/plugins/tree-sitter-textObjects.lua
